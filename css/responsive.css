@@ -1,0 +1,292 @@
+@media (min-width: 0px) and (max-width: 575px) {
+
+    .date p {
+    display: none;
+}
+
+.date h6 {
+    border-right: none;
+    font-size: 18px;
+}
+
+.col-align2 {
+    display: none;
+}
+
+.dropdown {
+    text-align: right;
+}
+
+.search-form {
+
+    margin-top: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #202020;
+    text-align: center;
+}
+
+.carousel {
+    margin-top: 115px;
+}
+
+.inner-size {
+    
+}
+
+.caption-adjust {
+
+    display: none;
+}
+
+.category {
+    padding: 40px 0;
+}
+
+.category h3 {
+    font-size: 32px;
+}
+
+.category .owl-theme .item .box .adjust-caption {
+    top: 20%;
+}
+
+.featured h3 {
+    font-size: 32px;
+}
+
+.precentage-lebel {
+    bottom: 24%;
+}
+
+.newsletter .text-area h2 {
+ 
+    font-size: 32px;
+    text-align: center;
+}
+
+.newsletter .text-area h2 {
+    
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+footer .widget-1 {
+    padding-right: 0%;
+    padding: 0 15px;
+}
+
+.bottom-footer {
+    text-align: center;
+}
+
+.margin-left {
+    margin-left: 70px!important;
+}
+
+.breadcrumb-bg .breadcrumb {
+    margin: 0 10px; 
+    padding: 15px;
+    
+}
+
+.details .details-box .thumbnail {
+    margin-top: 20px;
+}
+
+.details .details-box .title h3 {
+    font-size: 28px;
+}
+
+.details .details-box .inline-icon {
+    margin-top: 3%;
+}
+
+.details .details-box .text-area-img {
+    text-align: center;
+}
+
+.right-side {
+    padding-left: 15px;
+}
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+.col-align2 {
+    display: none;
+}
+
+.date h6 {
+    border-right: none;
+}
+
+.dropdown {
+    text-align: right;
+}
+
+.search-form {
+
+    margin-top: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #202020;
+    text-align: center;
+}
+
+.carousel {
+    margin-top: 115px;
+}
+
+.caption-adjust {
+    
+    top: 0%;
+}
+
+.caption-adjust h2 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.caption-adjust p {
+    font-size: 18px!important;
+    margin-bottom: 10px;
+}
+
+.precentage-lebel {
+    bottom: 25%;
+}
+
+.newsletter .text-area {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+footer .widget-1 {
+    padding-right: 0%;
+    padding: 0 20px;
+}
+
+.bottom-footer {
+    text-align: center;
+}
+
+.margin-left {
+    margin-left: 270px!important;
+}
+
+.details .details-box .title h3 {
+    font-size: 22px;
+}
+
+.inline-icon {
+    display: block;
+}
+
+.details .host .comments ul li {
+    font-size: 18px;
+}
+
+.details .host h4 {
+    font-size: 18px;
+}
+
+.details .host h3 {
+    font-size: 22px;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+     .date p {
+    display: none;
+}
+
+.date h6 {
+    border-right: none;
+    
+}
+
+.dropdown {
+    text-align: right;
+}
+
+.address ul .single-bar {
+    border-right:none;
+}
+
+    .search-form {
+        display: none;
+    }
+
+    .carousel {
+    margin-top: 115px;
+}
+
+.caption-adjust {
+    
+    top: 10%;
+}
+
+.precentage-lebel {
+
+    right: 6%;
+    bottom: 22%;
+}
+
+.details .details-box .title h3 {
+    font-size: 26px;
+}
+
+}
+
+
+
+/* How Work CSS */
+
+
+@media (min-width: 0px) and (max-width: 575px) {
+   
+    .img-box .quote-icon {
+    
+    left: 60%;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+   
+    
+   
+    .col-bg{
+    margin: 0px;
+    
+}
+
+.col-bg .box{
+    padding: 0 20px;
+    
+}
+
+.col-bg .box h4{
+    font-size: 20px;
+}
+
+.col-bg .box p{
+    
+    font-size: 14px;
+}
+
+}

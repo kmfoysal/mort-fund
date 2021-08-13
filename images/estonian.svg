@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="29" viewBox="0 0 53 29">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 400 253">
+      <image width="400" height="253" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAD9BAMAAABgjDzPAAAAElBMVEX///9MmeVIkdlRUVEdO1kAAAA4+qUaAAAAvElEQVR42u3PwQAAIAAEsFNIIYUUUshfJYse12awzBIRERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERH5ITJKZJfIKSEiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIvJFZJUIAAAAAAAAAAAAAAAAAAAAAM9d5sKQaxFam10AAAAASUVORK5CYII="/>
+    </pattern>
+    <filter id="flag-400" x="0" y="0" width="53" height="29" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#flag-400)">
+    <rect id="flag-400-2" data-name="flag-400" width="47" height="23" rx="1" transform="translate(3 3)" fill="url(#pattern)"/>
+  </g>
+</svg>

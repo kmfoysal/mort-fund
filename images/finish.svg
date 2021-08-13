@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="32" viewBox="0 0 56 32">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 400 244">
+      <image width="400" height="244" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAD0BAMAAABHg20HAAAAKlBMVEX////h5/Dg5vBpiLRoh7Q2YJswW5gVRosLPoYCN4EANYAAMn4ALXsAKXnl1GYPAAABI0lEQVR42u3bQQ3CUBBF0VmxrwkMVATWipR+BJDQNV1goakXHPCTCZkUcq6AlxwBLyLX6dU+94zfCAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBOR4kCHXuQdZh9piynXtONo81RZLrkcP0pbaov1JICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgX4bsubbe8G2vLcZcl94T5j7W5vUGAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcjTIG8ML7O5HGnPAAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <filter id="flag-400_1_" x="0" y="0" width="56" height="32" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#flag-400_1_)">
+    <rect id="flag-400_1_2" data-name="flag-400 (1)" width="47" height="23" rx="1" transform="translate(4.5 4.5)" fill="url(#pattern)"/>
+  </g>
+</svg>

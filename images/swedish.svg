@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47" height="23" viewBox="0 0 47 23">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 400 251">
+      <image width="400" height="251" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAD7BAMAAAC21d/SAAAAMFBMVEX/0QD/zwD/zAD+ywDzxgfgvRG8rCZYfGBKdWlCcW0eYIILV40AUpMAUJUATpgATJojEHk9AAABQElEQVR42u3awQnCUBBF0WkhWoGxAhOwBUHbEDuxiBRiCe5iJxI7MO7Fj4uPs5BzCxg4zPbFWNPtsuw/1u3vY24BAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8jvIVNPjWoQ8p9ziVNWxL7Q9JRd1LUqQVWTX/0kgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIO+Qtqp16W7XJhdNVcW91qZJLoaqzoWXdLshuZirKm4aD3Ny5rIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgX3sBu7IqWkj1L7kAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <rect id="flag-400_3_" data-name="flag-400 (3)" width="47" height="23" rx="1" fill="url(#pattern)"/>
+</svg>
